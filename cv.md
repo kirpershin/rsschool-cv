@@ -1,8 +1,9 @@
-Kir
-Contacts
-Location: Poland, Poznan
-Phone: +48 516-516-935
-Email: email@gmail.com
+****
+*Kir*
+* Contacts
++ Location: Poland, Poznan
++ Phone: +48 516-516-935
++ Email: email@gmail.com
 GitHub: kirpershin
 About Me
 I have skills
