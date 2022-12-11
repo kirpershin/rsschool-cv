@@ -3,7 +3,8 @@
 * Contacts
 + Location: Poland, Poznan
 + Phone: +48 516-516-935
-+ Email: email@gmail.com
++ Email: email@gmail.com 
+<br>
 GitHub: kirpershin
 About Me
 I have skills
@@ -12,6 +13,7 @@ HTML
 CSS/SASS
 JavaScript (Basic)
 Git
+<br>
 Code Example
 
 function sum(a, b) {
@@ -19,7 +21,8 @@ function sum(a, b) {
 }
 
 let result = sum(1, 2);
-alert( result );
+alert( result ); 
+<br>
 Experience
 Education
 University: 
